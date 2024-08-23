@@ -1,0 +1,59 @@
+Estadísticas de las características de textura:
+  Forma: (512, 512, 8)
+  Tipo de datos: float32
+  Rango de valores: [-218.1667022705078, 37236.48046875]
+  Característica 0:
+    Rango: [0.023148149251937866, 1.0]
+    Media: 0.7930254340171814
+    Desviación estándar: 0.31510964035987854
+  Característica 1:
+    Rango: [0.0, 5.5724310874938965]
+    Media: 0.6896405220031738
+    Desviación estándar: 1.1322637796401978
+  Característica 2:
+    Rango: [-7.198587894439697, 208.75860595703125]
+    Media: 0.8942895531654358
+    Desviación estándar: 4.451251983642578
+  Característica 3:
+    Rango: [0.28561079502105713, 1.0]
+    Media: 0.9341089129447937
+    Desviación estándar: 0.11850936710834503
+  Característica 4:
+    Rango: [0.0, 8.734375]
+    Media: 0.22362257540225983
+    Desviación estándar: 0.5394780039787292
+  Característica 5:
+    Rango: [-218.1667022705078, 406.8247375488281]
+    Media: 0.33727577328681946
+    Desviación estándar: 9.887167930603027
+  Característica 6:
+    Rango: [0.0, 6898.80078125]
+    Media: 21.41884422302246
+    Desviación estándar: 119.25543212890625
+  Característica 7:
+    Rango: [-0.08446298539638519, 37236.48046875]
+    Media: 256.4111633300781
+    Desviación estándar: 717.6529541015625
+Características guardadas en 'resultados/texture_features.npy'
+Varianza explicada por los primeros 2 componentes: 0.70
+
+Experimentando con 2 clusters/componentes:
+K-means:
+K-means - Coeficiente de silueta promedio: 0.6997
+
+Gaussian Mixture Model:
+GMM - Coeficiente de silueta promedio: 0.6130
+
+Experimentando con 5 clusters/componentes:
+K-means:
+K-means - Coeficiente de silueta promedio: 0.7157
+
+Gaussian Mixture Model:
+GMM - Coeficiente de silueta promedio: 0.6116
+
+Experimentando con 10 clusters/componentes:
+K-means:
+K-means - Coeficiente de silueta promedio: 0.7137
+
+Gaussian Mixture Model:
+GMM - Coeficiente de silueta promedio: 0.6025

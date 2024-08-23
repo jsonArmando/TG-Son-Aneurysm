@@ -1,0 +1,11 @@
+Método,Número de Clusters,Coeficiente de Silueta
+K-means,2,0.6996679
+GMM,2,0.6129881
+K-means,5,0.7157101
+GMM,5,0.6115776
+K-means,10,0.7137106
+GMM,10,0.6024663
+K-means,20,0.7017399
+GMM,20,0.5638463
+K-means,30,0.70470697
+GMM,30,0.59741116

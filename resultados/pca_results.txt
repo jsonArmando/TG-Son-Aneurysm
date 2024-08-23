@@ -1,0 +1,1 @@
+Varianza explicada por los primeros 2 componentes: 0.70
